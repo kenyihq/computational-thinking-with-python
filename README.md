@@ -8,7 +8,7 @@
 
 ## 1. Open terminal
   #### Git clone
-    git clone https://github.com/kenyihq/computational-thinking-with-python.git
+    git clone https://github.com/kenyihq/git.git
   #### 
     cd computational-thinking-with-python
 
